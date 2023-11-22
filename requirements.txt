@@ -1,0 +1,25 @@
+Needed Librarys:
+
+
+# Data Visualization
+matplotlib
+seaborn
+
+# NLP Tools
+nltk
+spacy
+
+# Installing required NLTK data packages
+python -m nltk.downloader popular
+
+# Installing spaCy's English model
+python -m spacy download en_core_web_sm
+
+# Machine Learning (Part of scikit-learn)
+scikit-learn
+
+# xgboost
+xgboost
+
+# Visualization of specific NLP Tools
+wordcloud

@@ -23,7 +23,8 @@ To use the model and make predictions, you can follow the provided instructions 
 
 ## Data
 
-The data for this project is not included in the repository as it may be subject to copyright. However, you can use your own data to train the model and make predictions. Ensure that your data is in the same format as the dataset used in the notebook.
+The data for this project is not included in the repository as it may be subject to copyright (Source: https://www.kaggle.com/code/ruchi798/how-do-you-recognize-fake-news/input). 
+However, you can use your own data to train the model and make predictions. Ensure that your data is in the same format as the dataset used in the notebook.
 
 ## Preparation
 

@@ -23,7 +23,8 @@ To use the model and make predictions, you can follow the provided instructions 
 
 ## Data
 
-The data for this project is not included in the repository as it may be subject to copyright (Source: https://www.kaggle.com/code/ruchi798/how-do-you-recognize-fake-news/input). 
+The data for this project is not included in the repository as it may be subject to copyright (Source: https://www.kaggle.com/code/ruchi798/how-do-you-recognize-fake-news/input).
+
 However, you can use your own data to train the model and make predictions. Ensure that your data is in the same format as the dataset used in the notebook.
 
 ## Preparation
@@ -40,7 +41,7 @@ The model is extensively evaluated, including accuracy, recall, and other perfor
 
 ## Author
 
-This project was created by Mario H, Sascha B, Jochen O and Dorothee J.
+This project was created by Mario H, Sascha B, Jochen O, and Dorothee J as the final project for the AI-Manager:in course at WBS Training.
 
 ## License
 
